@@ -151,13 +151,21 @@ The landing page is designed with responsive principles:
 - **Mobile browsers** (iOS Safari, Chrome Mobile)
 
 ## 📸 Screenshots
-```
 ![image](https://github.com/user-attachments/assets/ccbf6842-2ece-432a-94ea-1aca663c8ada)
+
+
 ![image](https://github.com/user-attachments/assets/add08be1-9913-4343-ac2a-05675eb51c75)
+
+
 ![image](https://github.com/user-attachments/assets/0694b4b2-509e-4cf3-a924-08d741238e5a)
+
+
 ![image](https://github.com/user-attachments/assets/c90acca1-6d03-48b9-ad75-becf7e5f4354)
+
+
 ![image](https://github.com/user-attachments/assets/a0336e3b-7477-48f6-b2ae-4516bea11da1)
-```
+
+
 ## 🔧 Technical Details
 
 ### Performance Optimizations
